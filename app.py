@@ -1,3 +1,4 @@
+#Web UI --> Similar to Gradio
 import streamlit as st
 from crewai import Agent, Task, Crew
 from langchain_openai import ChatOpenAI
@@ -149,4 +150,3 @@ if st.session_state.trip_plan:
 
 st.markdown("---")
 st.markdown("<div style='text-align:center;color:gray'>Built with Streamlit & CrewAI | Powered by OpenAI</div>", unsafe_allow_html=True)
-

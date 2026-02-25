@@ -1,4 +1,4 @@
-steamlit
+streamlit
 crewai
 openai
 langchain-openai
