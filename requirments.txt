@@ -1,0 +1,4 @@
+steamlit
+crewai
+openai
+langchain_openai
